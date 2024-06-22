@@ -1,6 +1,4 @@
 # links
 
-## devops
-- [scaling](./devops/scaling.md)
-
+## [devops](./devops/index.md)
 TODO: write a script that reads folder and files recursively and autogenerate markdown links

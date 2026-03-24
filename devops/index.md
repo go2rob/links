@@ -1,2 +1,2 @@
 ## devops
-- [scaling](./devops/scaling.md)
+- [scaling](./scaling.md)
